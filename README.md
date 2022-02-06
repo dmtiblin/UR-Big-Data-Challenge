@@ -33,7 +33,7 @@ There are two levels to this assignment.
 
 In Amazon's Vine program, reviewers receive free products in exchange for reviews.
 
-  ![vine01.png](../Images/vine01.png)
+  ![vine01.png](Images/vine01.png)
 
 Amazon has several policies to reduce the bias of its Vine reviews: [https://www.amazon.com/gp/vine/help?ie=UTF8](https://www.amazon.com/gp/vine/help?ie=UTF8).
 
@@ -49,7 +49,7 @@ But are Vine reviews truly trustworthy? Your task is to investigate whether Vine
 
 ## Submission
 
-* **Important** be sure to clean up all your AWS resources. Consult the [AWS cleanup guide](../Resources/AWS_cleanup.pdf) and [AWS check billing guide](../Resources/AWS_check_billing.pdf) as reference.
+* **Important** be sure to clean up all your AWS resources. Consult the [AWS cleanup guide](Resources/AWS_cleanup.pdf) and [AWS check billing guide](Resources/AWS_check_billing.pdf) as reference.
 
 * **Important:** Do not upload notebooks that contain your RDS password and endpoint. Be sure to delete them before making your notebook public!
 
