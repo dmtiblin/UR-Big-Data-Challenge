@@ -1,4 +1,4 @@
-# Big Data Homework - "Alexa, can you handle big data?"
+# "Alexa, can you handle big data?"
 
 Check out my final SQL [analysis](level-2-Analysis/bigdataqueries.sql) and [report](review_bias_analysis.docx)!
 
